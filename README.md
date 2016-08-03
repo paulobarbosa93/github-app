@@ -7,3 +7,7 @@ Repositório criado com o intuito de testar algumas funcionalidades da API do Gi
 - Bootstrap
 - Angular Resource
 - Angular Router
+
+# Instalação
+
+- bower install
